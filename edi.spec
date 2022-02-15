@@ -7,7 +7,6 @@ Group:          Enlightenment/Development/Tools/IDE
 Url:            http://enlightenment.org
 Source:         https://download.enlightenment.org/rel/apps/edi/%{name}-%{version}.tar.xz
 BuildRequires:  meson  
-BuildRequires:  ImageMagick
 BuildRequires:  doxygen
 BuildRequires:  hicolor-icon-theme
 BuildRequires:  pkgconfig
