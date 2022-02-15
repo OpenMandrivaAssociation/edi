@@ -10,6 +10,7 @@ BuildRequires:  meson
 BuildRequires:  doxygen
 BuildRequires:  hicolor-icon-theme
 BuildRequires:  pkgconfig
+BuildRequires:  pkgconfig(check)
 BuildRequires:  pkgconfig(efl)
 BuildRequires:  clang-devel
 BuildRequires:  gettext-devel
