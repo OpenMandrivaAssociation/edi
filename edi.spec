@@ -11,6 +11,8 @@ BuildRequires:  doxygen
 BuildRequires:  hicolor-icon-theme
 BuildRequires:  pkgconfig
 BuildRequires:  pkgconfig(efl)
+BuildRequires:  clang-devel
+BuildRequires:  gettext-devel
 
 %description
 EDI is a development environment designed for and built using the EFL.
