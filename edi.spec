@@ -4,7 +4,7 @@ Release:        1
 Summary:        Development environment for EFL
 License:        GPL-2.0
 Group:          Enlightenment/Development/Tools/IDE
-Url:            http://enlightenment.org
+Url:            https://enlightenment.org
 Source:         https://download.enlightenment.org/rel/apps/edi/%{name}-%{version}.tar.xz
 BuildRequires:  meson  
 BuildRequires:  doxygen
